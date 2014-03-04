@@ -11,4 +11,4 @@ The code does not run for any othr format given.
 Also please ensure a good internet connectivity 
 since the code makes API calls to the Zappos server.
 
-Libraries: Please include the json-simple in the lib folder of this submission to the buildpath of this compilation
+Libraries: Please include the json-simple.1.1.1.jar in the lib folder of this submission to the buildpath of this compilation
